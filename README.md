@@ -1,4 +1,4 @@
-# Sentiment Exmpale
+# Sentiment Example
 
 This is an example looking at a smiple sentiment analysis.
 
